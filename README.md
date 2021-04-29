@@ -24,5 +24,10 @@ Verwendet für die Aktualisierung des Systems die integrierte Paketverwaltung. M
 
 sudo apt-get update && sudo apt-get upgrade -y 
 
+sudo reboot
 
-Software Installation ..
+
+
+Software Installation ..OMV
+wget -O – https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install | sudo bash
+
