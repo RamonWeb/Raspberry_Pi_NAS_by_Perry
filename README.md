@@ -5,29 +5,34 @@ https://www.thingiverse.com/thing:4841380
 https://github.com/OpenMediaVault-Plugin-Developers/docs/blob/e58023ce7c76d4f83239065e8697e0894d6f94f1/Adden-B-Installing_OMV5_on_an%20R-PI.pdf
 
 
+my list:
+meine Hardwareliste:
 
-Installiert ein Raspbian - Image auf eine SD Karte
+Raspberry Pi 4 Modell B; 4 GB
+https://www.amazon.de/gp/product/B07TC2BK1X/ref=ppx_yo_dt_b_asin_title_o01_s00
 
-z.B. mit https://www.balena.io/etcher/ und https://www.raspberrypi.org/downloads/
+AZDelivery 5 x LM2596S DC-DC
+https://www.amazon.de/dp/B07DP3JX2X/ref=cm_sw_em_r_mt_dp_JGSWH9B9CWNX0TERN93R
 
-Startet nun den Raspberry Pi neu, damit die gemachten Änderungen übernommen werden.
+ANGEEK AC-DC 85-265V 12V 6A bis 8A Netzteil Platine Schaltnetzmodul
+https://www.amazon.de/gp/product/B07KPK525R/ref=ppx_yo_dt_b_asin_title_o03_s01
 
-Update / Upgrade
+Inateck Festplatten Zubehör Gehäuse Adapter USB 3.0 zu SSD/ 2, 5-Zoll-SATA-Festplatten Adapter
+[optimiert für SSD, Unterstützt UASP SATA III]
+https://www.amazon.de/gp/product/B01E3QSG3Y/ref=ppx_yo_dt_b_asin_title_o02_s01
 
-Schließlich ist das System noch auf den aktuellen Stand zu bringen.
+Poppstar Festplatten-Adapter (USB 3.1 Gen 1 Typ A) Sata USB Kabel für externe Festplatten
+(SSD, HDD, 2,5 u. 3,5 Zoll), bis zu 5 Gb/s, UASP Support, 1m Kabellänge (Netzteil Optional)
+https://www.amazon.de/gp/product/B01LYR49I8/ref=ppx_yo_dt_b_asin_title_o03_s00
 
-Stellt wieder die SSH-Verbindung zum Raspberry Pi:
+Schrauben Sortiment M3 M4 M5 Schrauben Muttern Set
+https://www.amazon.de/dp/B08BL4PMNV/ref=cm_sw_em_r_mt_dp_AKB85JAH7A97G4KG7FKM
 
-ssh pi@raspberrypi.local
-
-Verwendet für die Aktualisierung des Systems die integrierte Paketverwaltung. Mit den folgenden Befehlen wird dies erledigt:
-
-sudo apt-get update && sudo apt-get upgrade -y 
-
-sudo reboot
+LAN Kabel Kupplung Adapter RJ45
+https://www.amazon.de/BIGtec-Netzwerkkoppler-Netzwerkkabel-Ethernetkabel-Verlängerung/dp/B006XPC1YO/ref=sr_1_3
 
 
 
-Software Installation ..OMV
-wget -O – https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install | sudo bash
+zur Installation der Software schaut in die WIKI
+https://github.com/RamonWeb/Raspberry_Pi_NAS_by_Perry/wiki
 
