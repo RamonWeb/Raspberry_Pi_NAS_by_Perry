@@ -10,3 +10,19 @@ Installiert ein Raspbian - Image auf eine SD Karte
 
 z.B. mit https://www.balena.io/etcher/ und https://www.raspberrypi.org/downloads/
 
+Startet nun den Raspberry Pi neu, damit die gemachten Änderungen übernommen werden.
+
+Update / Upgrade
+
+Schließlich ist das System noch auf den aktuellen Stand zu bringen.
+
+Stellt wieder die SSH-Verbindung zum Raspberry Pi:
+
+ssh pi@raspberrypi.local
+
+Verwendet für die Aktualisierung des Systems die integrierte Paketverwaltung. Mit den folgenden Befehlen wird dies erledigt:
+
+sudo apt-get update && sudo apt-get upgrade -y 
+
+
+Software Installation ..
