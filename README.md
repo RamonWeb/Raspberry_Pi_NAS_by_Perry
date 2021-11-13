@@ -9,27 +9,26 @@ my list:
 meine Hardwareliste:
 
 Raspberry Pi 4 Modell B; 4 GB
-https://www.amazon.de/gp/product/B07TC2BK1X/ref=ppx_yo_dt_b_asin_title_o01_s00
+https://amzn.to/30scTMr
 
 AZDelivery 5 x LM2596S DC-DC
-https://www.amazon.de/dp/B07DP3JX2X/ref=cm_sw_em_r_mt_dp_JGSWH9B9CWNX0TERN93R
+https://amzn.to/3qB9Exa
 
 ANGEEK AC-DC 85-265V 12V 6A bis 8A Netzteil Platine Schaltnetzmodul
-https://www.amazon.de/gp/product/B07KPK525R/ref=ppx_yo_dt_b_asin_title_o03_s01
+https://amzn.to/3CeiyCA
 
 Inateck Festplatten Zubehör Gehäuse Adapter USB 3.0 zu SSD/ 2, 5-Zoll-SATA-Festplatten Adapter
-[optimiert für SSD, Unterstützt UASP SATA III]
-https://www.amazon.de/gp/product/B01E3QSG3Y/ref=ppx_yo_dt_b_asin_title_o02_s01
+https://amzn.to/3wIBVCJ
 
 Poppstar Festplatten-Adapter (USB 3.1 Gen 1 Typ A) Sata USB Kabel für externe Festplatten
 (SSD, HDD, 2,5 u. 3,5 Zoll), bis zu 5 Gb/s, UASP Support, 1m Kabellänge (Netzteil Optional)
-https://www.amazon.de/gp/product/B01LYR49I8/ref=ppx_yo_dt_b_asin_title_o03_s00
+https://amzn.to/30vc4CB
 
 Schrauben Sortiment M3 M4 M5 Schrauben Muttern Set
-https://www.amazon.de/dp/B08BL4PMNV/ref=cm_sw_em_r_mt_dp_AKB85JAH7A97G4KG7FKM
+https://amzn.to/3Ffh4Ki
 
 LAN Kabel Kupplung Adapter RJ45
-https://www.amazon.de/BIGtec-Netzwerkkoppler-Netzwerkkabel-Ethernetkabel-Verlängerung/dp/B006XPC1YO/ref=sr_1_3
+https://amzn.to/3DdOM2t
 
 
 
