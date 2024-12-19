@@ -58,8 +58,7 @@ Schrauben Sortiment M3 M4 M5 Schrauben Muttern Set
 https://s.click.aliexpress.com/e/_9ItH4N
 
 LAN Kabel Kupplung Adapter RJ45 (10St)
-https://s.click.aliexpress.com/e/_AgcF8z
-
+https://s.click.aliexpress.com/e/_oESBajd
 
 
 zur Installation der Software schaut in die WIKI
