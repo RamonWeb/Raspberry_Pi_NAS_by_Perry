@@ -38,10 +38,10 @@ https://github.com/OpenMediaVault-Plugin-Developers/docs/blob/master/Getting_Sta
 my list:
 meine Hardwareliste:
 
-Raspberry Pi 4 Modell B; 4 GB
-....???
+Raspberry Pi 4 Modell B; 4 GB 
+https://s.click.aliexpress.com/e/_oBJeVWX
 
-LM2596S DC-DC
+LM2596S DC-DC 
 https://s.click.aliexpress.com/e/_oo1K6Cr
 
 AC-DC 85-265V 12V 6A bis 8A Netzteil Platine Schaltnetzmodul
