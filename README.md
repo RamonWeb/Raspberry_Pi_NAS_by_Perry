@@ -42,7 +42,7 @@ Raspberry Pi 4 Modell B; 4 GB
 ....???
 
 LM2596S DC-DC
-https://s.click.aliexpress.com/e/_A0JrHr
+https://s.click.aliexpress.com/e/_oo1K6Cr
 
 AC-DC 85-265V 12V 6A bis 8A Netzteil Platine Schaltnetzmodul
 https://s.click.aliexpress.com/e/_9jxBR7
