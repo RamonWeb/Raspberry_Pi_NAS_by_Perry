@@ -44,8 +44,8 @@ https://s.click.aliexpress.com/e/_oBJeVWX
 LM2596S DC-DC 
 https://s.click.aliexpress.com/e/_oo1K6Cr
 
-AC-DC 85-265V 12V 6A bis 8A Netzteil Platine Schaltnetzmodul
-https://s.click.aliexpress.com/e/_9jxBR7
+AC-DC 85-265V 12V 6A bis 8A Netzteil Platine Schaltnetzmodul 
+https://s.click.aliexpress.com/e/_oFb2vyb
 
 Adapter USB 3.0 zu SSD/ 2, 5-Zoll-SATA-Festplatten Adapter
 https://s.click.aliexpress.com/e/_AZsGfR
